@@ -1,4 +1,4 @@
-Hello, this the account of Mostafa Farrokhabadi.
+Hello, this is the account of Mostafa Farrokhabadi.
 You can reach me at mostafa.farrokhabadi(at)ieee.org.
 Visit my personal website for more information:
 https://ece.uwaterloo.ca/~m5farrok/
