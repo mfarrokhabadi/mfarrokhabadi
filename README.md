@@ -1,7 +1,7 @@
 Hello, this is the account of Mostafa Farrokhabadi.
 You can reach me at mostafa.farrokhabadi(at)ieee.org.
 Visit my personal website for more information:
-https://ece.uwaterloo.ca/~m5farrok/
+[https://ece.uwaterloo.ca/~m5farrok/](https://mfarrokhabadi.github.io/index.html)
 
 <!---
 mfarrokhabadi/mfarrokhabadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
